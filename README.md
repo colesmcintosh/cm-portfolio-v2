@@ -1,2 +1,2 @@
-# cm-portfolio-v2
-v2 of portfolio
+# Portfolio site
+> A little bit about me.
