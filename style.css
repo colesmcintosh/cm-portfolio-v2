@@ -36,26 +36,6 @@ body {
     }
 }
 
-.scrollToTop{
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background: #0e0b16;
-    color: #E7DFDD;
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    text-decoration: none;
-    z-index: 999;
-
-}
-
-.scrollToTop:hover{
-    background: #E7DFDD;
-    color: #0e0b16;
-}
-
 .navbar {
     position: fixed;
     display: flex;
