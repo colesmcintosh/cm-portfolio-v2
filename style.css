@@ -329,12 +329,14 @@ color: white;
     margin: 2rem auto;
     display: grid;
     grid-gap: 1rem;
+    grid-template-columns: repeat(2, 1fr); /* added this line */
     color: #E7DFDD;
     align-items: center;
     justify-items: center;
     justify-content: center;
     transition: all 1s ease-in-out;
-} 
+}
+
 
 .skill-item {
     background: linear-gradient(to right, #4717F6, #A239CA);
